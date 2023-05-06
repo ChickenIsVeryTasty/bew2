@@ -128,3 +128,4 @@ function setup() {
     });
 }
 setup()
+console.log("test")
